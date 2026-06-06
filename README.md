@@ -155,11 +155,8 @@ Implementação de `try-with-resources`, garantindo o fechamento automático dos
 
 ## Grafo Desenvolvido
 
-
-
-```md
 <img width="1077" height="137" alt="image" src="https://github.com/user-attachments/assets/354fd93f-1bf0-4421-b54e-c3314804e047" />
-```
+
 
 ## Explicação dos Fluxos
 
